@@ -10,5 +10,6 @@ public class GitClass {
         System.out.println("hello git66666");
         System.out.println("hello git88888");
         System.out.println("hot_fix");
+        System.out.println("master-update");
     }
 }
